@@ -1,0 +1,21 @@
+workspace:
+  id: 917038e5-2f02-4c7d-b647-16572d236285
+cloudResources:
+  collections:
+    ../postman/collections/Vehicle Service QA Testing Collection: 58674415-a5cef961-37e9-4209-a5df-a050087a6219
+    ../postman/collections/Vehicle Service Collection: 58674442-6205a3c6-5226-4c94-89c2-f8aefc3bd753
+  environments:
+    ../postman/environments/Mock Environment.environment.yaml: 58674415-d705fbeb-f3ff-4b56-8980-4a8671f2de78
+  globals:
+    ../postman/globals/workspace.globals.yaml: 78dfb3c7-bcac-453b-8bf8-f425dc77e74c
+  specs:
+    ../C:/Users/mercury/Desktop/ceYEaHYO2/postman/specs/Vehicle Service Spec/index.yaml: 005e0b85-24dd-40e0-9fd1-8b39490beaa5
+  documents:
+    ../postman/documents/WORKSPACE-README.md: 9a785bbd-5c1c-43f3-810e-9cfca366b62b
+resourceNameMappings:
+  specs:
+    - ../C:/Users/mercury/Desktop/ceYEaHYO2/postman/specs/Vehicle Service Spec/index.yaml: Vehicle Service Spec
+    - ../postman/specs/Vehicle Service Spec/index.yaml: index.yaml
+localResources:
+  specs:
+    - ../C:/Users/mercury/Desktop/ceYEaHYO2/postman/specs/Vehicle Service Spec/index.yaml
